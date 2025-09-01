@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - Initial work - [YourGitHub](https://github.com/yourusername)
+- **Ahmed ali** 
 
 ## 🙏 Acknowledgments
 
@@ -231,8 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/Obesity_AI](https://github.com/yourusername/Obesity_AI)
-- **Email**: your.email@example.com
+
+- **Email**: ahmedatiea30@gmail.com
 
 ## 🔮 Future Enhancements
 
