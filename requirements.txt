@@ -1,0 +1,26 @@
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization Libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine Learning Extensions
+xgboost>=1.5.0
+
+# Model Persistence
+joblib>=1.1.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For enhanced performance
+# numba>=0.56.0
+# scipy>=1.7.0
+
+# Optional: For web deployment (future use)
+# flask>=2.0.0
+# streamlit>=1.0.0
